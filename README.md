@@ -3,11 +3,12 @@
 
  int main() {
 
-// Write C code
+// Write C code her
 
 float fahrenheit;
 
 float celsius;
+
 
 //input: fahrenheit
 
@@ -16,6 +17,7 @@ printf ("Input a fahrenheit value: ");
 scanf ("%f",&fahrenheit);
 
 printf("Fahrenheit = %.2\n",fahrenheit);
+
 
 //process
 
